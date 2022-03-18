@@ -1,2 +1,5 @@
-# tech-lead-katas-process-change-uml
-A repo providing a decision flow diagram around process change
+# Process Change - Decision Flow Diagram
+
+A UML decision flow diagram as part of the Tech Leadership Kata series.
+
+The document is created using [PlantUML](https://plantuml.com/) to allow for version control and forking if required.
