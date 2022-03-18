@@ -1,0 +1,15 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+start
+
+
+    if(Did you decide the change?) then (yes)
+        :something;
+    else (no)
+        :do something else;
+    endif
+
+stop;
+
+@enduml
